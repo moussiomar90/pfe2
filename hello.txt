@@ -13,4 +13,8 @@ from dev 2 with jenkins
 >>>>>>> dev
 =======
  frome de 3 with jenkins
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+from jen up 4
 >>>>>>> dev
