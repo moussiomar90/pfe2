@@ -7,3 +7,4 @@ from dev 2 with jenkins
 from jen up 4
 from jen up5
 from jen 6
+from 7
