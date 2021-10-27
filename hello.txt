@@ -21,4 +21,8 @@ from jen up 4
 >>>>>>> dev
 =======
 from jen up5
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+from jen 6
 >>>>>>> dev
