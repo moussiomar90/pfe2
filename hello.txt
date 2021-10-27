@@ -5,4 +5,8 @@ hello
 
 from dev
 
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+from dev 2 with jenkins
 >>>>>>> dev
