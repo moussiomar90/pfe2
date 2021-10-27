@@ -25,4 +25,9 @@ from jen up5
 >>>>>>> dev
 =======
 from jen 6
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+from 7
+from 8
 >>>>>>> dev
