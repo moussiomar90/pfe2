@@ -1,2 +1,8 @@
 hello 
+<<<<<<< HEAD
  
+=======
+
+from dev
+
+>>>>>>> dev
